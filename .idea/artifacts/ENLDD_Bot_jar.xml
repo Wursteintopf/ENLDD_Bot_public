@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ENLDD_Bot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ENLDD_Bot_jar</output-path>
+    <root id="archive" name="ENLDD_Bot.jar">
+      <element id="module-output" name="ENLDD Bot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Harald/telegrambots-3.6-jar-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
