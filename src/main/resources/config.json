@@ -1,0 +1,16 @@
+[
+  {
+    "teamname": "Enlightened Dresden",
+    "masterUserId": 11111111,
+    "openChats": [
+      {
+        "name": "Offener Chat",
+        "url": "https://t.me/beispielChat"
+      }
+    ],
+    "guestChatJoinLink": "",
+    "no_bot_rights_option": false,
+    "botUserName": "ENL_Bot",
+    "botToken": "BEISPIEL_TOKEN"
+  }
+]

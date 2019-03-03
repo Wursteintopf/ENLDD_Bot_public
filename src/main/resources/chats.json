@@ -1,0 +1,14 @@
+[
+  {
+    "uid":1,
+    "name":"Allgemein",
+    "chats": [
+      {
+        "uid":1,
+        "permissionNeeded":"NORMAL",
+        "name":"TESTNAME",
+        "url":"http:\/\/google.de"
+      }
+    ]
+  }
+]
